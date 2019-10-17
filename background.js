@@ -3,9 +3,3 @@ chrome.runtime.onInstalled.addListener(function() {
     console.log('The color is green.');
   });
 });
-
-function handleContextMenuClick(info, tab) {
-    //const linkUrl = info["linkUrl"];
-    alert("checking sentiment of selection: ");
-    //checkselectionsentiment(selectedtext);
-}
