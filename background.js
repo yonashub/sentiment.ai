@@ -9,9 +9,3 @@ function handleContextMenuClick(info, tab) {
     alert("checking sentiment of selection: ");
     //checkselectionsentiment(selectedtext);
 }
-
-chrome.contextMenus.create({
-    "title": "check selection sentiment",
-    "contexts": ["selection"],
-    "onclick": handleContextMenuClick
-});
