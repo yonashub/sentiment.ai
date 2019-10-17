@@ -25,3 +25,8 @@ Check it out in action:
 5. Select your downloaded version of this repo, and unpack it.
 
 That's the whole deal. Good luck—and if you enjoy this project at all, you can thank me by giving [Cortex](https://github.com/cortexlabs/cortex/) a star.
+
+
+
+* TODO
+- add "check sentiment" context menu, (e.g. https://developer.chrome.com/apps/contextMenus )
